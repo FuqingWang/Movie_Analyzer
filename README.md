@@ -10,6 +10,7 @@ c. Return the top 10 actors or directors in decreasing order by their profitabil
 
 Data source:
 https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset?select=movie_metadata.csv
+
 Libraries used:
 csv, sqlite3, pandas
 
