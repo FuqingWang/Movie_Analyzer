@@ -13,7 +13,7 @@ Data source:
 https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset?select=movie_metadata.csv
 
 Libraries used:
-csv, sqlite3, pandas
+csv, sqlite3, pandas, unittest
 
 ## Run instructions
 To run program and see results:
