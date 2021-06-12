@@ -19,8 +19,8 @@ csv, sqlite3, pandas
 To run program and see results:
 
 1. load the csv data by running data_importer.py
-2. run main.py(this should produce the result for a and b)
+2. run main.py (this should produce the result for a and b)
 
 To run test cases:
-1. load the csv data by running data_importer.py(this step can be skipped if db is already loaded from the previous step)
+1. load the csv data by running data_importer.py (this step can be skipped if db is already loaded from the previous step)
 2. run unit_test.py
