@@ -1,6 +1,6 @@
 # Movie_Analyzer
 
-A simple movie analyzer that 
+A simple movie analyzer that:
 
 a. Load the data into Sqlite database
 
